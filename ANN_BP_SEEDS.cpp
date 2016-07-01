@@ -17,7 +17,7 @@ using namespace std;
 #define NUMOUT 2
 
 #define rando() ((double)rand()/(RAND_MAX+1))
-
+//
 double entropyfunction(double p[],int n)
 {
     double sum=0.0;
